@@ -1994,7 +1994,11 @@ input, select, textarea {
 	}
 
 		.features section {
-			padding: 3.5em 3em 1em 7em ;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			padding-top: 2em;
+			padding-bottom: 2em;
 			width: 50%;
 			border-top: solid 1px rgba(255, 255, 255, 0.15);
 			position: relative;
@@ -3882,6 +3886,8 @@ input, select, textarea {
 
 		#intro p {
 			font-size: 1.25em;
+			text-align: center;
+			/* border: 1px solid red; */
 		}
 
 			@media screen and (max-width: 980px) {

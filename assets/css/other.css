@@ -1,0 +1,94 @@
+/* ABOUT SECTION */
+.image-header {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 3.5em;
+    /* border: 1px solid red; */
+}
+
+.image-header img {
+    height: 250px;
+    width: 270px;
+    border-radius: 130px;
+}
+
+.image-header h1 {
+    display: flex;
+    align-items: center;
+    /* border: 1px solid red; */
+}
+
+.resume-btn-container {
+    display: flex;
+    justify-content: center;
+    /* border: 1px solid red; */
+}
+
+
+/* SKILLS SECTION */
+.features img {
+    height: fit-content;
+    width: 150px;
+    /* border: 1px solid red; */
+}
+
+.features section h3 {
+    margin-top: 1em;
+}
+
+
+
+.image-juke {
+    width: 70%;
+	border-radius: 0.25em;
+	border: 0;
+	display: inline-block;
+	position: relative;
+}
+
+
+.image-juke img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+	border-radius: 0.25em;
+	display: block;
+}
+
+.image-cribz {
+    width: 70%;
+	border-radius: 0.25em;
+	border: 0;
+	display: inline-block;
+	position: relative;
+}
+
+
+.image-cribz img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+	border-radius: 0.25em;
+	display: block;
+}
+
+.image-hg {
+    width: 70%;
+	border-radius: 0.25em;
+	border: 0;
+	display: inline-block;
+	position: relative;
+}
+
+
+.image-hg img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+	border-radius: 0.25em;
+	display: block;
+}
+
+
+
+
