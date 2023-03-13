@@ -28,7 +28,7 @@
 /* SKILLS SECTION */
 .features img {
     height: fit-content;
-    width: 150px;
+    width: 100px;
     /* border: 1px solid red; */
 }
 
@@ -39,56 +39,31 @@
 
 
 .image-juke {
-    width: 70%;
-	border-radius: 0.25em;
-	border: 0;
-	display: inline-block;
-	position: relative;
+    display: flex;
+    padding: 2em;
+    /* border: 1px solid red; */
 }
 
-
 .image-juke img {
-    object-fit: cover;
-    width: 100%;
-    height: 100%;
-	border-radius: 0.25em;
-	display: block;
+    max-width: 100%;
 }
 
 .image-cribz {
-    width: 70%;
-	border-radius: 0.25em;
-	border: 0;
-	display: inline-block;
-	position: relative;
+    display: flex;
+    padding: 2em;
+    /* border: 1px solid red; */
 }
 
-
 .image-cribz img {
-    object-fit: cover;
-    width: 100%;
-    height: 100%;
-	border-radius: 0.25em;
-	display: block;
+    max-width: 100%;
 }
 
 .image-hg {
-    width: 70%;
-	border-radius: 0.25em;
-	border: 0;
-	display: inline-block;
-	position: relative;
+    display: flex;
+    padding: 2em;
+    /* border: 1px solid red; */
 }
-
 
 .image-hg img {
-    object-fit: cover;
-    width: 100%;
-    height: 100%;
-	border-radius: 0.25em;
-	display: block;
+    max-width: 100%;
 }
-
-
-
-
